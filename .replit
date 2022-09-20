@@ -1,0 +1,2 @@
+run = 'npm --prefix ./daniel run dev'
+entrypoint = './ daniel /pages/index.js'
